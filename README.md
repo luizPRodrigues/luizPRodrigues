@@ -1,7 +1,7 @@
 ### Hello World! I´m Luiz 👋
 
 
-- 🔭 I’m currently working at Keeggo company as a QA Automation test 
+- 🔭 I’m currently working in a company as a QA Automation test 
 - 🌱 Learning more about and studyng: Java, Selenium, Api  
   
   ##
